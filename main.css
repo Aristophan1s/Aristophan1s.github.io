@@ -1,0 +1,54 @@
+body {
+  background: #292F36;
+  color: #86BBD8;
+  font-family: 'PT Serif', serif;
+  
+}
+
+a{
+    color: #55D6BE;
+    font-style: italic;
+    
+}
+
+
+
+
+.maincontent{
+    font-size: 1.2em;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box-model-test {
+  width: 30%;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border: 4px solid black;
+  background: green;
+  color: white;
+  
+}
+
+.Album{
+      border: 2px solid #C1C1C1;
+      padding-top: 20px;
+      padding-bottom: 40px;
+      padding-left: 50px;
+      padding-right: 50px;
+     
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 50px;
+}
+
+.np{
+    color: white;
+    width: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
