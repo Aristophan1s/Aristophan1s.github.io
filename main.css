@@ -50,3 +50,26 @@ a{
     margin-bottom: 50px;
     text-align: center;
 }
+
+
+html, body{
+    margin: 0px;
+}
+
+.hero-container {
+    /* Add a lot of padding so we can see a lot of the image */
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    /* Set the background to an image */
+    background: url(000024-m.jpg);
+
+    /* Make the image cover the entirety of the hero */
+    background-size: cover;
+    background-position: center;
+
+    /* Put the text in the middle */
+    text-align: center;
+}
